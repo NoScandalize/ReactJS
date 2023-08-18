@@ -1,0 +1,17 @@
+.container-details {
+    border: 1px solid black;
+    margin: 10px 10px;
+    background-color: grey;
+    color: aliceblue;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.644);
+    
+}
+
+.title_details {
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: black;
+}
