@@ -51,8 +51,12 @@ const Game = ({ verifyLetter, pickedWord, pickedCategory, letters, guessedLetter
         </div>
         <div className="wrongLettersContainer">
             <p>Letras já utilizadas:</p>
-            {wrongLetters.map((letter, i) => (
-                <span key={i}>{letter.toUpperCase()}, </span>
+            {[...wrongLetters, ...guessedLetters].map((letter, i) => (
+               wrongLetters.includes(letter) ? (
+               <span key={i} style={{ color: "red" }}>{letter.toUpperCase()}   </span>
+               ) : (
+               <span key={i} style={{ color: "#1eff00" }}>{letter.toUpperCase()}   </span>
+               )
             ))}
         </div>
     </div>

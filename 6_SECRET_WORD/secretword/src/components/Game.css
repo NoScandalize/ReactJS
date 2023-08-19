@@ -46,3 +46,8 @@
     text-align: center;
     margin-right: 1em;
 }
+
+.wrongLettersContainer span {
+    font-size: 2em;
+    font-weight: bold;
+}
