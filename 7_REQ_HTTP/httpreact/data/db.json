@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Calça Vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "Mouse",
+      "price": "250",
+      "id": 4
+    },
+    {
+      "name": "Monitor",
+      "price": "999.99",
+      "id": 7
+    },
+    {
+      "name": "Headset",
+      "price": "239.99",
+      "id": 11
+    },
+    {
+      "name": "Placa de video",
+      "price": "1999.99",
+      "id": 12
+    },
+    {
+      "name": "Teclado",
+      "price": "400.99",
+      "id": 13
+    },
+    {
+      "name": "Placa de video",
+      "price": "2599.99",
+      "id": 14
+    },
+    {
+      "name": "SSD",
+      "price": "299.99",
+      "id": 15
+    }
+  ]
+}
