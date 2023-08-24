@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "SSD",
+            "price": 349.99
+        },
+        {
+            "id": 2,
+            "name": "Monitor",
+            "price": 999.99
+        },
+        {
+            "id": 3,
+            "name": "Gabinete",
+            "price": 139.99
+        },
+        {
+            "id": 4,
+            "name": "Placa de video",
+            "price": 2399.99
+        },
+        {
+            "id": 5,
+            "name": "Teclado",
+            "price": 249.99
+        },
+        {
+            "id": 6,
+            "name": "Mouse",
+            "price": 199.99
+        }
+    ]
+}
